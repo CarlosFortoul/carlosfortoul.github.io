@@ -9,6 +9,10 @@ p {
 	line-height: 1.5;
 	font-size: 20px;
 }
+.about{
+	font-size: 20px;
+	color:white;
+}
 .ucf{
 	vertical-align: top;
 }
@@ -17,7 +21,7 @@ hr{
 }
 h1{
 	font-family: 'Britannic Bold';
-	font-size: 60px;
+	font-size: 55px;
 	color: white;
 }
 h3{
